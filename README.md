@@ -2,7 +2,7 @@
 
 # 1 Introduction
 
-There is a collection of my assignments. This undergraduate course is "Computer Graphics" of the School of Computer Science, Sun Yat-Sen University in the fall of 2020. The instructor is Chengying Gao. 
+There is my homework set. This undergraduate course is "Computer Graphics" of the School of Computer Science, Sun Yat-Sen University in the fall of 2020. The instructor is Chengying Gao. 
 
 这是我在上中带计院的《人工智能》本科课程时完成的课程作业与实验项目，老师为高成英。内容只是简单备份，仅供参考。
 
